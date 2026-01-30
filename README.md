@@ -14,14 +14,6 @@ Hi! I’m **Özlem Sönmez**, a **Software Engineer (.NET / Full-Stack)** based 
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sonmezozlem&show_icons=true&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&rank_icon=github&card_width=810)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sonmezozlem&theme=onedark&hide_border=false&card_width=810)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonmezozlem&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&card_width=810)<br/>
-
----
-
 # 💻 Tech Stack
 
 <p align="left">
@@ -58,12 +50,8 @@ Hi! I’m **Özlem Sönmez**, a **Software Engineer (.NET / Full-Stack)** based 
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonmezozlem)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=sonmezozlem&icon=7&color=7)](https://visitcount.itsvg.in)
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sonmezozlem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonmezozlem" height="30" width="40" /></a>
+</p>
 <!-- README updated -->
